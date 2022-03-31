@@ -1,4 +1,4 @@
-# HackerRank Java Stack problem
+# HackerRank Java Stack problem, it the solution on Python
 
 
 # Create a stack that can handle the following operations:
