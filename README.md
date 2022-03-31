@@ -1,2 +1,4 @@
 # Hacker_Rank_challenges
-HackerRank's challenges
+
+
+### Revie my skills, so I went through HackerRank's challenges
